@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随便记点什么</title>
-    <link>https://jiangyunong.github.io/</link>
-    <description>Recent content on 随便记点什么</description>
+    <title>2021-12s on 随便记点什么</title>
+    <link>https://jiangyunong.github.io/2021-12/</link>
+    <description>Recent content in 2021-12s on 随便记点什么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Dec 2021 11:26:20 +0800</lastBuildDate><atom:link href="https://jiangyunong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Dec 2021 11:26:20 +0800</lastBuildDate><atom:link href="https://jiangyunong.github.io/2021-12/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>thrift vs. grpc vs. brpc</title>
       <link>https://jiangyunong.github.io/2021-12/thrift-vs-grpc-vs-brpc/</link>
@@ -16,15 +16,6 @@
       <description>thrift thrift是facebook于2007年开源的跨语言rpc框架。
 grpc google
 brpc 百度</description>
-    </item>
-    
-    <item>
-      <title>test 测试</title>
-      <link>https://jiangyunong.github.io/posts/first-post/</link>
-      <pubDate>Sun, 05 Dec 2021 00:44:06 +0800</pubDate>
-      
-      <guid>https://jiangyunong.github.io/posts/first-post/</guid>
-      <description>Hello World </description>
     </item>
     
   </channel>
