@@ -1,5 +1,5 @@
 baseURL = "https://jiangyunong.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "zh-cn"
+title = "随便记点什么"
 theme = "ananke"
 publishDir = "docs"
